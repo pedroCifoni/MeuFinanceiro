@@ -1,0 +1,15 @@
+.metadata/
+.project
+.classpath
+.settings/
+
+# Compilados
+bin/
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
