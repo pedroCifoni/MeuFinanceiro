@@ -1,0 +1,14 @@
+[
+  {
+    "valor": 400.0,
+    "tipo": 1,
+    "data": "2025-01-25",
+    "descricao": "comer"
+  },
+  {
+    "valor": 200.0,
+    "tipo": 2,
+    "data": "2025-01-25",
+    "descricao": "saida"
+  }
+]
